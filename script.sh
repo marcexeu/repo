@@ -1,3 +1,2 @@
-#!bin/bash
-cd /tmp
-touch marcelo.txt
+#!/bin/bash
+touch /tmp/marcelo.txt
