@@ -1,2 +1,2 @@
 #!/bin/bash
-touch /tmp/marcelo.txt
+nmap -sn -PE 192.168.220.4/24
